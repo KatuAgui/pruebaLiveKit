@@ -2,8 +2,8 @@
 const { AccessToken } = require('livekit-server-sdk');
 
 async function generateToken() {
-    const apiKey = 'APIHKyERpsvLZKv';
-    const apiSecret = 'LeNU8Y1UQfBrP2c6jxfqNQjQae5eernhZBH2Vr77gy3K';
+    const apiKey = '';
+    const apiSecret = '';
   const roomName = 'sala-prueba';
   const identity = 'usuario456'; // nombre único del usuario
 
